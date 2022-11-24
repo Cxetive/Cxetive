@@ -13,7 +13,7 @@
 
 <div>
 
-  <a href="https://www.lua.org/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/lua-original-wordmark.svg" />
+  <a href="https://www.lua.org/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/lua.svg" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/javascript.svg" />
   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/typescript.svg" />
   <a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" />
