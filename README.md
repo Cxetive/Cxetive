@@ -1,7 +1,7 @@
 <img src="./sec/../src/Banner%20Ultrawide.png" style="box-shadow: 3px 3px 10px #00000035">
 <br/>
 
-# Hey There, I'm Cxetove
+# Hey There, I'm Cxetive
 
 <a href="https://discordapp.com/users/694939547045462017" target="_blank"><img class="icon" align="left" alt="Discord" width="30px" src="./src/icons/discord.svg" /></a>
 <a href="https://github.com/Cxetive" target="_blank"><img class="icon" align="left" alt="Github" width="30px" src="./src/icons/github.svg" /></a>
