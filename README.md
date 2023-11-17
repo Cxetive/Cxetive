@@ -22,7 +22,7 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img class="icon" align="left" alt="MongoDB" width="32px" src="./src/icons/mongodb.svg" />
   <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="git" width="32px" src="./src/icons/git.svg"/>
   <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/github.svg" />
-  <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/java" />
+  <a href="https://www.java.com/nl/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="./src/icons/java.svf" />
 </div>
 
 <br />
