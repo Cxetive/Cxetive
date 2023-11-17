@@ -52,6 +52,6 @@
 </div> -->
 
 
-[![Amit Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=Cxetive&include_all_commits=true&count_private=true&show_icons=true&line_height=30&hide_border=true&theme=tokyonight)](https://github.com/cxetive/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cxetive)](https://github.com/Cxetive/github-readme-stats)(https://github.com/cxetive/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxetive&layout=default&hide_border=true&card_width=495&theme=tokyonight)](https://github.com/cxetive/github-readme-stats)
 
